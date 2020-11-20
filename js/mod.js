@@ -1,8 +1,8 @@
 let modInfo = {
-	name: "The ??? Tree",
-	id: "mymod",
-	author: "nobody",
-	pointsName: "points",
+	name: "The Valleys",
+	id: "1hUme9NYFqpfGu0ltasMqMObGX5xV4La",
+	author: "phoaming",
+	pointsName: "steps",
 	discordName: "",
 	discordLink: "",
 	changelogLink: "https://github.com/Acamaeda/The-Modding-Tree/blob/master/changelog.md",
@@ -13,8 +13,8 @@ let modInfo = {
 
 // Set your version in num and name
 let VERSION = {
-	num: "0.0",
-	name: "Literally nothing",
+	num: "0.1.0",
+	name: "First Steps",
 }
 
 // If you add new functions anywhere inside of a layer, and those functions have an effect when called, add them here.
